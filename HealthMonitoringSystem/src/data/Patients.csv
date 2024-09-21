@@ -1,0 +1,10 @@
+id,name,age,gender,medicalHistory,vitals
+1,John Doe,30,Male,Flu,98.6
+2,Jane Doe,28,Female,Allergy,98.7
+3,Sam Smith,40,Male,Diabetes,cold
+4,Sunil,35,Male,Heart Disease,97.5
+5,Alice Johnson,27,Female,Asthma,98.2
+10,ujjwal,25,male,mmm,flue,99.99
+50,tejas,23,male,flue,flue
+23,gaurav,27,male,flue,90
+23,virat,36,male,flue,96
